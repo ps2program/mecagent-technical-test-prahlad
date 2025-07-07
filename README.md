@@ -1,4 +1,5 @@
 # CADQuery Code Generation Report
+## Full implementation solution is in [Base_Model file](./base_model.ipynb).
 
 ## Problem Statement
 The task was to create the **best CADQuery code generator model** given a dataset of image-to-CADQuery code pairs. The objective wasn't absolute performance, but demonstrating meaningful improvement over a strong baseline.
@@ -6,6 +7,7 @@ The task was to create the **best CADQuery code generator model** given a datase
 I have approach this challenge in two phase -
 - 1. Baseline model
 - 2. Enhanced model with using my expertise in AIML,CAD/FEA and Mechanical domain
+
 
 ---
 
